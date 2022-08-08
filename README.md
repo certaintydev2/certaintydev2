@@ -4,7 +4,7 @@
 - 👋 Hi, We are CertaintyInfotech from India.
 - 👀 We interested in ... Making things Simple and useful for Everyone.
 - 🌱 We have expertise in Python, Django and Javascript!
-- 📫 How to reach us... hr@certainty@gmail.com
+- 📫 How to reach us... connect@certaintyinfotech.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=certaintydev2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![CertaintyInfotech's GitHub stats](https://github-readme-stats.vercel.app/api?username=certaintydev2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
