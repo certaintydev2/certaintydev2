@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, Visitor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**certaintydev2/certaintydev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Hi, We are CertaintyInfotech from India.
+- 👀 We interested in ... Making things Simple and useful for Everyone.
+- 🌱 We have expertise in Python, Django and Javascript!
+- 📫 How to reach us... hr@certainty@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=certaintydev2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![CertaintyInfotech's GitHub stats](https://github-readme-stats.vercel.app/api?username=certaintydev2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<!---
+certaintydev2/certaintydev2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
