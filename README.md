@@ -3,7 +3,7 @@
 
 - 👋 Hi, We are CertaintyInfotech from India.
 - 👀 We interested in ... Making things Simple and useful for Everyone.
-- 🌱 We have expertise in Python, Django and Javascript!
+- 🌱 We have expertise in Python, AI/ML , Data Analytics & Data visualization
 - 📫 How to reach us... connect@certaintyinfotech.com
 
 
